@@ -7,3 +7,9 @@
 	Note: This is custom css.
 
 **********************************************************************************/
+@font-face{
+	font-family: "rexona";
+	src: url(/fonts/RexonaCircularFF-Book.otf);
+	font-weight: normal;
+	font-style: normal;
+}
